@@ -1,6 +1,12 @@
 # ML_Project_02
 I used better techniques to explore the data and also for pre-processing in this project.
 
+-> Removed unwanted outliers
+
+-> Fixed unwanted values (e.g., zeros replaced or handled properly)
+
+-> Performed feature selection to improve model efficiency
+
 I applied 5 different models to get a better result.
 
 *** I implemented and compared 5 different classification models:
